@@ -1,0 +1,48 @@
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\ForDataMining.exe.config
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\ForDataMining.exe
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\ForDataMining.pdb
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Flurl.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Flurl.Http.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\VkNet.dll
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Flurl.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Flurl.Http.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\bin\Debug\VkNet.xml
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\obj\Debug\ForDataMining.csprojAssemblyReference.cache
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\obj\Debug\ForDataMining.csproj.CopyComplete
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\obj\Debug\ForDataMining.exe
+C:\Users\Frameworker\ForAndroid\ForDataMining\ForDataMining\obj\Debug\ForDataMining.pdb
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\ForDataMining.exe.config
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\ForDataMining.exe
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\ForDataMining.pdb
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Flurl.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Flurl.Http.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\VkNet.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Flurl.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Flurl.Http.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\bin\Debug\VkNet.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\obj\Debug\ForDataMining.csprojAssemblyReference.cache
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\obj\Debug\ForDataMining.csproj.CopyComplete
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\obj\Debug\ForDataMining.exe
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining\ForDataMining\obj\Debug\ForDataMining.pdb

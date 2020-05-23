@@ -1,0 +1,14 @@
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\ForDataMining2.exe
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\ForDataMining2.pdb
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\CsvHelper.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\CsvHelper.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\obj\Debug\ForDataMining2.csprojAssemblyReference.cache
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\obj\Debug\ForDataMining2.csproj.CopyComplete
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\obj\Debug\ForDataMining2.exe
+C:\Users\Frameworker\OneDrive\Рабочий стол\ForDM\ForDataMining2\ForDataMining2\ForDataMining2\obj\Debug\ForDataMining2.pdb
